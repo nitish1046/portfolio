@@ -1,0 +1,104 @@
+%PDF-1.4
+1 0 obj
+<< /Type /Catalog /Pages 2 0 R >>
+endobj
+2 0 obj
+<< /Type /Pages /Kids [3 0 R] /Count 1 >>
+endobj
+3 0 obj
+<< /Type /Page /Parent 2 0 R /MediaBox [0 0 612 842] /Contents 4 0 R /Resources << /Font << /F1 5 0 R >> >> >>
+endobj
+4 0 obj
+<< /Length 2109 >>
+stream
+BT
+/F1 14 Tf
+50 780 Td
+(NITISH - RESUME) Tj
+/F1 10 Tf
+0 -22 Td
+(NITISH//X - Computer Science Student & Aspiring Software Engineer) Tj
+0 -14 Td
+(Email: nitishkumar741188@gmail.com | LinkedIn: linkedin.com/in/nitish1046 | GitHub: github.com/nitish1046) Tj
+0 -14 Td
+(---------------------------------------------------------------------------------------------------------) Tj
+0 -14 Td
+(EDUCATION) Tj
+0 -14 Td
+(B.Tech - Computer Science and Engineering) Tj
+0 -14 Td
+(Arya College of Engineering, Jaipur | Expected Graduation: 2029) Tj
+0 -14 Td
+() Tj
+0 -14 Td
+(TECHNICAL ARSENAL) Tj
+0 -14 Td
+(* Languages: C, C++, Python) Tj
+0 -14 Td
+(* Core CS: Data Structures & Algorithms, Object-Oriented Programming \(OOP\)) Tj
+0 -14 Td
+(* Web Development: HTML, CSS, JavaScript \(Exploring\)) Tj
+0 -14 Td
+(* Developer Tools: Git, GitHub, VS Code, Linux/Windows) Tj
+0 -14 Td
+() Tj
+0 -14 Td
+(FEATURED PROJECTS) Tj
+0 -14 Td
+(1. SurplusToShelter - Food-Rescue Platform) Tj
+0 -14 Td
+(   Technologies: HTML, CSS, JavaScript, Python, Flask, SQLite) Tj
+0 -14 Td
+(   Role: Frontend Development + Database Architecture) Tj
+0 -14 Td
+(   Impact: Food donation matching, pickup/delivery coordination, real-time status dashboard.) Tj
+0 -14 Td
+() Tj
+0 -14 Td
+(2. Smart EV Charging Management System) Tj
+0 -14 Td
+(   Technologies: C++, Object-Oriented Programming, File Handling, STL / Vectors) Tj
+0 -14 Td
+(   Role: OOP Concepts + C++ Core Development) Tj
+0 -14 Td
+(   Impact: Station & slot booking, vehicle tracking, automated billing, and station analytics.) Tj
+0 -14 Td
+() Tj
+0 -14 Td
+(3. Waste Segregation Monitoring System) Tj
+0 -14 Td
+(   Technologies: Technology-Oriented Urban Monitoring) Tj
+0 -14 Td
+(   Role: Hardware-Software Integration & Logic) Tj
+0 -14 Td
+(   Impact: Real-time municipal monitoring & automated sorting guidance.) Tj
+0 -14 Td
+() Tj
+0 -14 Td
+(ACHIEVEMENTS & ACTIVITIES) Tj
+0 -14 Td
+(* Hackathon Participant - Smart Innovation & Civic Tech Hackathons) Tj
+0 -14 Td
+(* HackerRank Profile: @nitishkumar74111) Tj
+0 -14 Td
+(* Beyond Code: Cricket, Technology Exploration, Music, Photography, Fitness) Tj
+0 -14 Td
+ET
+endstream
+endobj
+5 0 obj
+<< /Type /Font /Subtype /Type1 /BaseFont /Helvetica >>
+endobj
+xref
+0 6
+0000000000 65535 f 
+0000000010 00000 n 
+0000000059 00000 n 
+0000000116 00000 n 
+0000000236 00000 n 
+00000002397 00000 n 
+trailer
+<< /Size 6 /Root 1 0 R >>
+startxref
+2459
+%%EOF
